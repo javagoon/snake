@@ -1,0 +1,1 @@
+{"D:\\ACO Graduate program\\JSSnake\\gulpfile.js":{"sha1":"86632455b33e58175f84840318c9f9cd9eeb75e5","tasks":{"default":{"name":"default","dependencies":"browserSync"},"browserSync":{"name":"browserSync","dependencies":""}}}}
